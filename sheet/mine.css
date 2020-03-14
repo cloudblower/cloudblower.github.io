@@ -176,3 +176,15 @@ body {background-color: #f9f9f9; margin:0; padding:0;}
 	color: #6fb9a475;
 }
 
+.blue-square-container {
+text-align: center;
+}
+
+.clear {
+ clear: both;
+ display: block;
+ overflow: hidden;
+ visibility: hidden;
+ width: 0;
+ height: 0;
+}
