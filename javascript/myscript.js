@@ -22,5 +22,5 @@ document.addEventListener("DOMContentLoaded", function () {
         _0x3457x4.style.transform = "scaleX\(0\)"
     });
     var _0x3457x5 = document.querySelector("\.license a");
-    _0x3457x5.innerHTML = "Powered By Cloudblower - Comingsoon\.com"
+    _0x3457x5.innerHTML = "Powered By Cloudblower - Cloudblower\.me"
 }, false)
