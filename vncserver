@@ -6,7 +6,7 @@
 # Default-Stop:      0 6
 ### END INIT INFO
 
-PATH="$PATH:/usr/X11R6/bin/"
+#PATH="$PATH:/usr/X11R6/bin/"
 
 # The Username:Group that will run VNC
 export USER="root"
